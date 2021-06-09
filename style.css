@@ -1,5 +1,9 @@
 * { margin: 0; padding: 0; }
 
+/* input {
+    border-style: none;
+} */
+
 body, header, footer {
     font-family: arial, sans-serif;
     font-size: 14px;
@@ -83,6 +87,7 @@ button {
     color: white;
     padding: 10px 28px 10px 28px;
     border-radius: 5px;
+    margin-left: 10px;
 }
 
 #sign-in:hover {
@@ -91,6 +96,16 @@ button {
 
 #search-bar {
     width: 500px;
-    height: 35px;
+    height: 40px;
+    border-width: 1.5px;
+    border-style: solid;
     border-radius: 20px;
+}
+
+input[type=text] {
+    padding-inline-start: 20px;
+}
+
+#search-bar:hover {
+    box-shadow: 1px 1px black;
 }
