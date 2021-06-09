@@ -1,0 +1,52 @@
+body, header, footer {
+    font-family: arial;
+    font-size: 13px;
+}
+
+/* .center {
+    display: block;
+    margin: auto;
+    padding: 10px;
+} */
+
+a:link { color: rgb(34, 34, 34); text-decoration: none; }
+a:visited {color: rgb(34, 34, 34); }
+a:hover { color: rgb(34, 34, 34); text-decoration: underline; }
+a:active { color: rgb(34, 34, 34); }
+
+#google-logo {
+    display: block;
+    margin: auto;
+    padding-top: 150px;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.nav-center {
+    text-align: center;
+}
+
+.link {
+    padding: 10px;
+}
+
+#sign-in {
+    background-color: rgb(26, 115, 232);
+    color: white;
+    padding: 10px 28px 10px 28px;
+    border-radius: 5px;
+}
+
+#sign-in:hover {
+    box-shadow: 1px 1px rgb(26, 115, 232);
+}
+
+#search-bar {
+    border-radius: 10px;
+}
