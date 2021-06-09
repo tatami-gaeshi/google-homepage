@@ -1,0 +1,1 @@
+First Odin Project assignment to replicate the Google homepage. The goal is to take the lessons covered in the past several sections and to apply them to a real project.
