@@ -79,6 +79,11 @@ button {
     left: 45%;
 }
 
+#carbon-icon {
+    padding-right: 3px;
+    width: 14px;
+}
+
 .nav-center {
     text-align: center;
 }
