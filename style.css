@@ -106,6 +106,13 @@ input[type=text] {
     padding-inline-start: 20px;
 }
 
+#search-icon {
+    position: relative;
+    right: 520px;
+    top: 6px;
+    color: #9aa0a6; 
+}
+
 #search-bar:hover {
     box-shadow: 1px 1px black;
 }
